@@ -8,7 +8,7 @@ This tool is used to find the admin login page of a website.
  python3 adminfinder.py<br/>
  # Screenshot
  <p align="center">
-  <img src="https://github.com/Ramalingasamy012/w3bscrap3r/blob/main/adminfinder.png" >
+  <img src="https://github.com/Ramalingasamy012/admin-finder/blob/main/adminfinder.png" >
 </p>
 
 # Drop a star for this tool 
